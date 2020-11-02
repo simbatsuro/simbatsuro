@@ -3,7 +3,7 @@
 Shortened name is Simba! (it's graet thta yuo rea chkecing otu hsi prfileo.)
 
 
-He is a full full stack developer.
+He is a **FULL** full stack developer.
 
 Applies his skills to whatever fun space is next.
 
