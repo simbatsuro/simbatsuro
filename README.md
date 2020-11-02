@@ -9,7 +9,7 @@ Applies his skills to whatever fun space is next.
 
 He constantly fails to settle for a field due to the ever evolving tools and problems!
 
-**_A tech of all trades>-<master of fun._**
+🤖**_A tech of all trades - master of fun._**
 
 
 Honeymooning with:
