@@ -12,4 +12,6 @@ He constantly fails to settle for a field due to the ever evolving tools and pro
 **Label: _ ._**
 [![Generic badge](https://img.shields.io/badge/<A tech of all trades>-<master of fun>-<COLOR>.svg)]
 
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 Honeymooning with Go, Kubernetes and Vue.js...
