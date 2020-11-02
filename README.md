@@ -9,9 +9,10 @@ Applies his skills to whatever fun space is next.
 
 He constantly fails to settle for a field due to the ever evolving tools and problems!
 
-**Label: _ ._**
-[![Generic badge](https://img.shields.io/badge/<A tech of all trades>-<master of fun>-<COLOR>.svg)]
+**_A tech of all trades>-<master of fun._**
 
-[![Generic badge](https://img.shields.io/badge/<<A tech of all trades>-<STATUS>-<COLOR>.svg)](#)
 
-Honeymooning with Go, Kubernetes and Vue.js...
+Honeymooning with:
+* <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+* <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+* <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
