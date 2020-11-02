@@ -9,6 +9,7 @@ Applies his skills to whatever fun space is next.
 
 He constantly fails to settle for a field due to the ever evolving tools and problems!
 
-**Label: _A tech of all trades and master of fun._**
+**Label: _ ._**
+[![Generic badge](https://img.shields.io/badge/<A tech of all trades>-<master of fun>-<COLOR>.svg)]
 
 Honeymooning with Go, Kubernetes and Vue.js...
